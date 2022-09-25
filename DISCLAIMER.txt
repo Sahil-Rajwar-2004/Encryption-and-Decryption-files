@@ -1,3 +1,10 @@
-This project is only for educational purpose only
+Try this on your own operating system!
 
-Try this at your own risk and on your operating system!
+vecna.py will encrypt all the files where the vecna.py file is present except the thekey.key and eleven.py
+
+Things to take care of:
+1. Don't change the filename of vecna.py, thekey.key and eleven.py
+2. Don't run the vecna.py file more than 1 times!
+3. thekey.key and eleven.py are the most important files that can decrypt your all files
+
+If you messed up! then I am not responsible for this
